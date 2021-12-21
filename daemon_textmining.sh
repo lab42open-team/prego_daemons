@@ -2,7 +2,6 @@
 
 ########################################################################################
 # script name: daemon_textmining.sh
-# path on oxygen: /data/databases/scripts/prego_daemons
 # developed by: Savvas Paragkamian
 # framework: PREGO - WP1
 ########################################################################################
