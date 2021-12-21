@@ -1,0 +1,3 @@
+# This file contains all cron jobs that call the PREGO daemons.
+# The textmining daemon downloads new pubmed files every monday at am 00:00 and then it refreshes all textmining data i.e runs the tagger and the perl scripts for association extraction.
+# 00**1 ./daemon_textmining.sh  
