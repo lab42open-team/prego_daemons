@@ -13,5 +13,9 @@ In this repository we provide the daemons that keep our knowldege up-to-date
 by integrating latest data and by re-calculating the associations from time to time.
 
 
+## PREGO web-site
+https://prego.hcmr.gr/
 
+## Citation
+under submission
 
