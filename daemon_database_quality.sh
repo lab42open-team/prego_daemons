@@ -2,7 +2,6 @@
 
 ########################################################################################
 # script name: daemon_database_quality.sh
-# path on oxygen: /data/databases/scripts/prego_daemons
 # developed by: Savvas Paragkamian
 # framework: PREGO - WP4
 ########################################################################################
