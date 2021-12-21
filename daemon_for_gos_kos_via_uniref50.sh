@@ -2,7 +2,6 @@
 
 ########################################################################################
 # script name: daemon_for_gos_kos_via_uniref50.sh
-# path on oxygen: /data/databases/scripts/prego_daemons
 # developed by: Haris Zafeiropoulos
 # framework: PREGO - WP2
 ########################################################################################
